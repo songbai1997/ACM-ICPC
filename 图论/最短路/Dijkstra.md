@@ -6,7 +6,7 @@ void dijkstra(int start, vector<int>& d, vector<vector<pair<int, int>>>& g) {
     // 构建优先队列，最小堆，此处使用 pair<int, int> 分别存放节点编号以及到此节点的距离，可根据题目进行修改
     auto cmp = [](pair<int, int> a, pair<int, int>b) {
         return a.second > b.second;
-    }
+    };
     priority_queue<pair<int, int>, vector<pair<int, int>>, decltype(cmp)> pq(cmp); // 最小堆优先队列
     d[start] = 0; // 初始化到源点的距离为 0
     pq.emplace(start, 0);

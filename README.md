@@ -11,6 +11,7 @@ csdn: https://blog.csdn.net/SongBai1997?type=lately
 - [排序](算法基础/排序.md)
 - [二分法](算法基础/二分法.md)
 - [滑动窗口](算法基础/滑动窗口.md)
+- [位运算](算法基础/位运算/位运算.md)
 - 倍增
   - [LCA](算法基础/倍增/LCA.md)
   - [RMQ](算法基础/倍增/RMQ.md)
