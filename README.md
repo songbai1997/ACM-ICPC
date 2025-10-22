@@ -63,7 +63,8 @@ csdn: https://blog.csdn.net/SongBai1997?type=lately
   - [普通莫队](数据结构/莫队/普通莫队.md)
   - [回滚莫队](数据结构/莫队/回滚莫队.md)
 - [树链剖分](数据结构/树链剖分.md)
-
+## 树
+- [树的直径](树/树的直径.md)
 ## 图论
 - 最短路
   - [Dijkstra](图论/最短路/Dijkstra.md)
