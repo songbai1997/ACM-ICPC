@@ -34,7 +34,6 @@ private:
 ```
 # 类型二：循环节
 https://leetcode-cn.com/problems/repeated-substring-pattern/
-![循环节题目](image.png)
 ```cpp
 // 求最小循环节
 class Solution {
